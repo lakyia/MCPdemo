@@ -80,7 +80,7 @@ uvicorn server:sse_app --host 0.0.0.0 --port 8000
 
 ### 服务器截图
 
-![Server Status](other/server.png)
+![Server Status](https://raw.githubusercontent.com/lakyia/MCPdemo/main/other/server.png)
 
 ## 技术栈
 
